@@ -15,13 +15,13 @@
 
 ## 레벨1 연습문제(30문제)
 
-![Progress](https://progress-bar.dev/3/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/13/?title=done&scale=100&width=100)
 | 날짜 | 문제                                                                                                  | -   |
 | ---- | ----------------------------------------------------------------------------------------------------- | --- |
-| 2022.01.10 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=cpp)                 |✅|
-| 2022.01.11 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=cpp)     |✅|
-|      | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=cpp)             |     |
-|      | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=cpp)    |     |
+| 2022.01.10 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=cpp)                 |  ✅  |
+| 2022.01.11 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=cpp)     |  ✅  |
+| 2022.01.12 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=cpp)         |  ✅  |
+| 2022.01.13 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=cpp) |  ✅  |
 |      | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=cpp)            |     |
 |      | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915?language=cpp)  |     |
 |      | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=cpp)       |     |
