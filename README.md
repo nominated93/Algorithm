@@ -15,7 +15,7 @@
 
 ## 레벨1 연습문제(30문제)
 
-![Progress](https://progress-bar.dev/23/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/53/?title=done&scale=100&width=100)
 | 날짜 | 문제                                                                                                  | -   |
   | ---- | ----------------------------------------------------------------------------------------------------- | --- |
 | 2022.01.10 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=cpp)                   | ✅ |
@@ -32,8 +32,8 @@
 | 2022.01.21 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=cpp)              | ✅ |
 | 2022.01.24 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=cpp)               | ✅ |
 | 2022.01.25 | [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926?language=cpp)                    | ✅ |
-|      | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=cpp)                    |     |
-|      | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=cpp)           |     |
+| 2022.01.29 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=cpp)                    | ✅  |
+| 2022.01.30 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930?language=cpp)           | ✅  |
 |      | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=cpp)                |     |
 |      | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932?language=cpp)  |     |
 |      | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=cpp)   |     |
@@ -117,12 +117,12 @@
 
 ## 레벨2 주제 문제(15문제)
 
-![Progress](https://progress-bar.dev/0/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/20/?title=done&scale=100&width=100)
 | 날짜 | 주제 | 문제 | - |
 | -------- | -------- | ------------------ | --- |
-|  | 스택/큐 | 기능개발 |  |
-|  | 스택/큐 | 프린터 |  |
-|  | 스택/큐 | 다리를 지나는 트럭 |  |
+| 2022.02.07 | 스택/큐 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=cpp) | ✅ |
+| 2022.02.12 | 스택/큐 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42586?language=cpp) | ✅ |
+| 2022.02.12 | 스택/큐 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=cpp) | ✅ |
 |  | 스택/큐 | 주식가격 |  |
 |  | 힙 | 더 맵게 |  |
 |  | DFS/BFS | 타겟 넘버 |  |
